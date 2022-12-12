@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@deepikasrinivasasharma](https://medium.com/@deepikasrinivasasharma)
 
+- 😎 NPM packages I have worked on [https://www.npmjs.com/package/react-native-voips-calls](https://www.npmjs.com/package/react-native-voips-calls) & [https://www.npmjs.com/package/push-notification-react-native](https://www.npmjs.com/package/push-notification-react-native)
+
 - 💬 Ask me about **React, Typescript, React Native**
 
 - 📫 How to reach me **deepass1405@gmail.com**
