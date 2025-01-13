@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=DeepikaSharma5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💻 I'm working with **FlashHealth** and **WellTech Solutions**<br><br>🔭 I’m currently working on **Flash Health**<br><br>🌱 I’m currently learning **Objective C, Swift**<br><br>📝 I regularly write articles on **https://medium.com/@deepikasrinivasasharma**<br><br>😎 **NPM** packages I have worked on **https://www.npmjs.com/package/react-native-voips-calls & https://www.npmjs.com/package/push-notification-react-native**<br><br>💬 Ask me about **React, Typescript, React Native**<br><br>📫 How to reach me **deepass1405@gmail.com**<br><br>⚡ Fun fact - **I have a habit which is both good and bad. Maintaining the deadline like my own deadline**.
+💻 I'm working with **Zil Learn** and **Kydon**<br><br>🔭 I’m currently working on **Flash Health**<br><br>🌱 I’m currently learning **Objective C, Swift**<br><br>📝 I regularly write articles on **https://medium.com/@deepikasrinivasasharma**<br><br>😎 **NPM** packages I have worked on **https://www.npmjs.com/package/react-native-voips-calls & https://www.npmjs.com/package/push-notification-react-native**<br><br>💬 Ask me about **React, Typescript, React Native**<br><br>📫 How to reach me **deepass1405@gmail.com**<br><br>⚡ Fun fact - **I have a habit which is both good and bad. Maintaining the deadline like my own deadline**.
 
 
 ## 🌐 Socials:
